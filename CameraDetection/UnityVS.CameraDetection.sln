@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.CameraDetection.CSharp", "UnityVS.CameraDetection.CSharp.csproj", "{A630AE83-D746-EA49-91C3-17DEF5558AF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.CameraDetection.CSharp.Editor", "UnityVS.CameraDetection.CSharp.Editor.csproj", "{6C71EF0F-8E06-309B-2147-F50F63FD0D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.CameraDetection.CSharp.Plugins", "UnityVS.CameraDetection.CSharp.Plugins.csproj", "{B84D2501-5F30-5E69-29E8-6867642E2D41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A630AE83-D746-EA49-91C3-17DEF5558AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A630AE83-D746-EA49-91C3-17DEF5558AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A630AE83-D746-EA49-91C3-17DEF5558AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A630AE83-D746-EA49-91C3-17DEF5558AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C71EF0F-8E06-309B-2147-F50F63FD0D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C71EF0F-8E06-309B-2147-F50F63FD0D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C71EF0F-8E06-309B-2147-F50F63FD0D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C71EF0F-8E06-309B-2147-F50F63FD0D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84D2501-5F30-5E69-29E8-6867642E2D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84D2501-5F30-5E69-29E8-6867642E2D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84D2501-5F30-5E69-29E8-6867642E2D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84D2501-5F30-5E69-29E8-6867642E2D41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

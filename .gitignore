@@ -13,8 +13,39 @@
 /*.pidb
 /*.booproj
 
-#Unity3D Generated File On Crash Reports
-sysinfo.txt
+# =========================
+# Unity3D Excludes
+# =========================
+[Ll]ibrary/
+[Oo]bj/
+[Tt]emp/
+[Bb]uild/
+
+# Additional User Defined
+UnityGenerated/
+Assets/AssetStoretools*
+
+# GitHub Defined
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Additional User Defined
+[Ee]xported[Oo]bj/
+*.svd
+
+# Generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports 
+sysinfo.txt 
+
 
 # =========================
 # Operating System Files

@@ -54,8 +54,8 @@ public class CameraDetection : MonoBehaviour
     {
         // Executes only for rendered cubes until timeout.
         while(true)
-        {            
-            yield return new WaitForSeconds(2);
+        {
+            yield return new WaitForSeconds(2 * Random.value);
             if (!rendererReference.isVisibleFrom(Camera.main))
             {
                 DetectionTTL = 0;
